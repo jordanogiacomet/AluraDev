@@ -1,0 +1,21 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    
+   
+
+    .botoesCabecalho{
+        display: flex;
+        column-gap: 20px;
+        background-color: #051D3B;
+        
+    
+    }
+    
+    
+}
+
