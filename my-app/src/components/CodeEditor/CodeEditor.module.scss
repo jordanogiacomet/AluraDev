@@ -1,0 +1,59 @@
+.formulario{
+    
+    margin-top: 16px;
+    font-family: 'Roboto', sans-serif;
+    
+    .formularioFieldSet{
+        display: flex;
+        flex-wrap: wrap; // Quebra a linha
+        
+        
+       
+        
+        justify-content: flex-start;
+        background-color: #141414;;
+        border: 32px solid #6BD1FF;
+        border-radius: 8px;
+        color: white;
+
+        img{
+            margin: 10px 0;
+            padding: 0 5px;
+        }
+    
+
+        input{
+            width: 100%;
+            background-color: #141414;
+            border: none;
+            padding-top: 5px;
+            padding-bottom: 400px;
+        }
+
+       
+       
+        
+
+
+    }
+
+
+    .botaoFormulario{
+           
+          
+           margin: 16px 0; 
+           padding: 16px 0;
+           background: rgba(80, 129, 251, 0.08);
+           border-color:rgba(80, 129, 251, 0.08);
+           border-radius: 8px;
+           text-align: center;
+           
+         
+
+
+
+    }
+
+
+}
+
